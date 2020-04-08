@@ -1,2 +1,4 @@
 # hello-world
-1st reopsitory ever
+
+My 1st reopsitory:
+I've start my adventure with programing
